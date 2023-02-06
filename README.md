@@ -1,2 +1,39 @@
 # Speech_Text_Reader
-Choose or Enter custom text and Read out
+
+### Table of contents
+
+- Overview
+- Requirements
+- Contributing
+- Current Maintainer
+- License
+
+
+### Overview
+
+<img src="" alt="Main Screeen Photo_1" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<br/>
+<img src="" alt="Main Screeen Photo_1" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+### Requirements
+- `HTML`
+- `CSS`
+- `Javascript`
+- `API`
+- [https://developer.mozilla.org/Web_Speech_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+
+
+
+### Contributing
+
+Pull requests are welcome. For major changes, please open an issue first (if any)
+to discuss what you would like to change.
+
+
+### Current Maintainer
+- [Subhankar Sahoo](https://github.com/sahoo-subha)
+
+### License
+
+- [MIT]()

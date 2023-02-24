@@ -10,10 +10,10 @@
 
 
 ### Overview
+![Main screen img_1](https://user-images.githubusercontent.com/89283572/221102282-4c2d14d1-5bb0-4160-80b1-4cead7e8b076.png)
 
-<img src="https://github.com/sahoo-subha/Speech_Text_Reader/blob/main/README_Image/Main%20screen%20img_1.png" alt="Main Screeen Photo_1" style="display: inline-block; margin: 0 auto; max-width: 300px">
-<br/>
-<img src="https://github.com/sahoo-subha/Speech_Text_Reader/blob/main/README_Image/Main%20screen%20img_2.png" alt="Main Screeen Photo_1" style="display: inline-block; margin: 0 auto; max-width: 300px">
+![Main screen img_2](https://user-images.githubusercontent.com/89283572/221102328-bfd7f66e-aedb-4cb8-9b31-11372ac688d6.png)
+
 
 
 ### Requirements

@@ -1,14 +1,5 @@
 # Speech_Text_Reader
 
-### Table of contents
-
-- Introduction
-- Requirements
-- Contributing
-- Current Maintainer
-- License
-
-
 ### Introduction
 
 

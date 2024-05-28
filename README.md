@@ -11,7 +11,7 @@ Our platform lets you effortlessly convert any text to speech. Choose from multi
 - `HTML`
 - `CSS`
 - `Javascript`
-- `[Web_Speech_API]`(https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+- [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 
 
 

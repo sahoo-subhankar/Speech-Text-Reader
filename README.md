@@ -2,9 +2,7 @@
 
 ### Introduction
 
-
-https://user-images.githubusercontent.com/89283572/229348438-0c23b28b-26a9-4fe3-a756-4ee59ef07c4b.mp4
-
+Our platform lets you effortlessly convert any text to speech. Choose from multiple voices, interactive cards and click to hear the text read aloud. 
 
 
 
@@ -13,8 +11,7 @@ https://user-images.githubusercontent.com/89283572/229348438-0c23b28b-26a9-4fe3-
 - `HTML`
 - `CSS`
 - `Javascript`
-- `API`
-- [https://developer.mozilla.org/Web_Speech_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+- `[https://developer.mozilla.org/Web_Speech_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)`
 
 
 

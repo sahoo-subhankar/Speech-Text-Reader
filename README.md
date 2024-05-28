@@ -1,4 +1,4 @@
-# Speech_Text_Reader
+# Speech-Text-Reader
 
 ### Introduction
 
